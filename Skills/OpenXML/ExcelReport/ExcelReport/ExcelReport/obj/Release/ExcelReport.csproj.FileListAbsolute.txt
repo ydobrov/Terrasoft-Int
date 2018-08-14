@@ -1,0 +1,16 @@
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\bin\Release\ExcelReport.exe.config
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\bin\Release\ExcelReport.exe
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\bin\Release\ExcelReport.pdb
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\bin\Release\SpreadsheetLight.dll
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\bin\Release\SpreadsheetLight.xml
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\obj\Release\MainWindow.baml
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\obj\Release\MainWindow.g.cs
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\obj\Release\App.g.cs
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\obj\Release\ExcelReport_MarkupCompile.cache
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\obj\Release\ExcelReport.g.resources
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\obj\Release\ExcelReport.Properties.Resources.resources
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\obj\Release\ExcelReport.csproj.GenerateResource.Cache
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\obj\Release\ExcelReport.exe
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\obj\Release\ExcelReport.pdb
+C:\Users\Yurii\Documents\Visual Studio 2015\Projects\ExcelReport\ExcelReport\obj\Release\ExcelReport.csprojResolveAssemblyReference.cache
