@@ -1,0 +1,6 @@
+Total Memory before collecting is 28453808 bytes
+Total Memory after first collecting is 21015816 bytes. RunTime for first collecting 00:00:00.02 hh:mm:ss.ms
+Total Memory after WaitForPendingFinalizers is 21016064 bytes. RunTime for WaitForPendingFinalizers 00:00:00.00 hh:mm:ss.ms
+Total Memory after second collecting is 21015920 bytes. RunTime for second collecting 00:00:00.01 hh:mm:ss.ms
+Common runtime is 00:00:04.34 hh:mm:ss.ms
+
