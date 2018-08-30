@@ -1,0 +1,18 @@
+2018-08-30 07:12:17,867 [1] INFO Log4NetToMySQL.Program - Hello logging world!
+2018-08-30 07:13:55,204 [1] ERROR Log4NetToMySQL.Program - Hello logging world!
+2018-08-30 07:52:55,885 [1] ERROR Log4NetToMySQL.Program - Hello logging world!
+2018-08-30 07:54:36,576 [1] ERROR Log4NetToMySQL.Program - test
+System.Exception: test
+2018-08-30 07:54:36,749 [1] ERROR Log4NetToMySQL.Program - Hello logging world!
+2018-08-30 07:55:01,062 [1] ERROR Log4NetToMySQL.Program - test
+System.Exception: test
+2018-08-30 07:55:01,322 [1] ERROR Log4NetToMySQL.Program - Hello logging world!
+2018-08-30 07:57:32,334 [1] ERROR Log4NetToMySQL.Program - test
+System.Exception: test
+2018-08-30 07:57:32,525 [1] ERROR Log4NetToMySQL.Program - Hello logging world!
+2018-08-30 07:58:45,746 [1] ERROR Log4NetToMySQL.Program - test
+System.Exception: test
+2018-08-30 07:58:45,924 [1] ERROR Log4NetToMySQL.Program - Hello logging world!
+2018-08-30 08:02:17,043 [1] ERROR Log4NetToMySQL.Program - test
+System.Exception: test
+2018-08-30 08:02:17,278 [1] ERROR Log4NetToMySQL.Program - Hello logging world!
