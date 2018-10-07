@@ -1,0 +1,7 @@
+C:\Projects\Fms\branches\users\Roman\CryptoPro\CryptoPro\bin\Debug\CryptoPro.exe.config
+C:\Projects\Fms\branches\users\Roman\CryptoPro\CryptoPro\bin\Debug\CryptoPro.exe
+C:\Projects\Fms\branches\users\Roman\CryptoPro\CryptoPro\bin\Debug\CryptoPro.pdb
+C:\Projects\Fms\branches\users\Roman\CryptoPro\CryptoPro\obj\Debug\CryptoPro.csprojResolveAssemblyReference.cache
+C:\Projects\Fms\branches\users\Roman\CryptoPro\CryptoPro\obj\Debug\CryptoPro.csproj.CoreCompileInputs.cache
+C:\Projects\Fms\branches\users\Roman\CryptoPro\CryptoPro\obj\Debug\CryptoPro.exe
+C:\Projects\Fms\branches\users\Roman\CryptoPro\CryptoPro\obj\Debug\CryptoPro.pdb
