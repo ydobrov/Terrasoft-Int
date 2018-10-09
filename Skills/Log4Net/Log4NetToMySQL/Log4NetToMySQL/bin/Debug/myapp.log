@@ -16,3 +16,6 @@ System.Exception: test
 2018-08-30 08:02:17,043 [1] ERROR Log4NetToMySQL.Program - test
 System.Exception: test
 2018-08-30 08:02:17,278 [1] ERROR Log4NetToMySQL.Program - Hello logging world!
+2018-10-09 10:03:42,159 [1] ERROR Custom Logger - test
+System.Exception: Test it
+2018-10-09 10:03:42,490 [1] ERROR Custom Logger - Test it again

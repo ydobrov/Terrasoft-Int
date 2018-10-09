@@ -13,3 +13,17 @@ C:\Users\YuriiDobrov\source\repos\Log4NetToMySQL\Log4NetToMySQL\obj\Debug\Log4Ne
 C:\Users\YuriiDobrov\source\repos\Log4NetToMySQL\Log4NetToMySQL\obj\Debug\Log4NetToMySQL.exe
 C:\Users\YuriiDobrov\source\repos\Log4NetToMySQL\Log4NetToMySQL\obj\Debug\Log4NetToMySQL.pdb
 C:\Users\YuriiDobrov\source\repos\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\log4net.config
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\log4net.config
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\Log4NetToMySQL.exe.config
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\Log4NetToMySQL.exe
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\Log4NetToMySQL.pdb
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\Google.Protobuf.dll
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\log4net.dll
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\MySql.Data.dll
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\Google.Protobuf.xml
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\log4net.xml
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\bin\Debug\MySql.Data.xml
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\obj\Debug\Log4NetToMySQL.csprojResolveAssemblyReference.cache
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\obj\Debug\Log4NetToMySQL.csproj.CoreCompileInputs.cache
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\obj\Debug\Log4NetToMySQL.exe
+C:\Projects\Git\Terrasoft\Terrasoft-Integration\Skills\Log4Net\Log4NetToMySQL\Log4NetToMySQL\obj\Debug\Log4NetToMySQL.pdb
