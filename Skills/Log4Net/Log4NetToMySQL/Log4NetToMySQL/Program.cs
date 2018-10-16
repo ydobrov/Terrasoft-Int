@@ -9,7 +9,6 @@ namespace Log4NetToMySQL {
 
 		static void Main(string[] args) {
 			ILog log = LogManager.GetLogger("Custom Logger");
-			Console.WriteLine(MethodBase.GetCurrentMethod().DeclaringType);
 			log.Error("test", new Exception("Test it"));
 			Console.WriteLine("Hit enter");
 			log.Error("Test it again");
